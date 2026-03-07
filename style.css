@@ -295,4 +295,20 @@ h4 {
         padding-left: 20px;
         padding-right: 20px;
     }
+    .hire{
+        margin-top: 10px;
+    }
+    .cv{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .about, .intro, .skills, .projects{
+        margin-top: 20px;
+    }
+    .live{
+        margin-top: 7px;
+    }
+    .git{
+        margin-top: 7px;
+    }
 }
