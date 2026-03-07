@@ -280,4 +280,8 @@ h4 {
         /* margin-left: 50px; */
         justify-content: center;
     }
+    .projects{
+        justify-content: center;
+        align-items: center;
+    }
 }
