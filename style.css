@@ -248,6 +248,18 @@ h4 {
     /* font-display: fallback; */
 
 }
+.text{
+    margin-left: 50px;
+}
+.css{
+    display: flex;
+    flex-direction: column;
+}
+.javascript{
+      display: flex;
+    flex-direction: column;
+  
+}
 @media(max-width: 480px){
     .logo{
         width: 100px;
