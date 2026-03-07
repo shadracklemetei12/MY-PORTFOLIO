@@ -273,12 +273,14 @@ h4 {
     .skills{
         display: grid;
         grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
         /* margin-top: 100px; */
-        gap: 10px;
+        /* gap: 10px; */
         justify-content: center;
         align-items: center;
-        margin-left: 30px;
+        /* margin-left: 30px; */
         column-gap: 10px;
+        row-gap: 20px;
     }
     h3 .skills{
         text-align: center;
