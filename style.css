@@ -275,6 +275,9 @@ h4 {
     .footer-container{
         display: flex;
         flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
     }
     .footer-social{
         /* margin-left: 50px; */
@@ -284,5 +287,8 @@ h4 {
         justify-content: center;
         align-items: center;
         margin-left: 0%;
+    }
+    *{
+        margin: 0px;
     }
 }
